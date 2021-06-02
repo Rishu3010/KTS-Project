@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ChildView.cpp
+C:\Users\rishu\Downloads\KTS Project\PlanetaryMotion\ChildView.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rishu\Downloads\KTS Project\PlanetaryMotion\ChildView.cpp(144,55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  GrCamera.cpp
+  GrTexture.cpp
+  OpenGLWnd.cpp
+  MainFrm.cpp
+  Sphere.cpp
+C:\Users\rishu\Downloads\KTS Project\PlanetaryMotion\Sphere.cpp(106,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rishu\Downloads\KTS Project\PlanetaryMotion\Sphere.cpp(106,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  PlanetaryMotion.cpp
+  Generating Code...
+  PlanetaryMotion.vcxproj -> C:\Users\rishu\Downloads\KTS Project\Debug\PlanetaryMotion.exe
